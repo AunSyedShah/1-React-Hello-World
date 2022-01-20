@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+# /build, uncomment this if you want to clean the build folder
 
 # misc
 .DS_Store
